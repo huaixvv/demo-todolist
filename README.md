@@ -17,7 +17,7 @@ npm install
 1. 复制环境变量模板文件：
 
 ```bash
-cp .env.example .env
+重命名 .env.example  -> .env
 ```
 
 2. 编辑 `.env` 文件，将 `your_deepseek_api_key_here` 替换为您的实际 API Key：
