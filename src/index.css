@@ -1,0 +1,10 @@
+:root {
+  font-family: var(--font-body);
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
